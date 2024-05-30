@@ -8,7 +8,7 @@
 
 Pytorch implementation of the paper "[HiFi-CaNet: A High-Level Feature Guided Cascade Network for Lane Detection]".
 
-This code is improved by CLRNet source code.[@zheng2022clrnet]
+This code is improved by CLRNet source code.
 
 ## Introduction
 ![HiFi-CaNet](image/Fig.2.jpg)
