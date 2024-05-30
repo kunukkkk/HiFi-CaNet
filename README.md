@@ -90,7 +90,6 @@ We will get the visualization result in `work_dirs/xxx/xxx/visualization`.
  HiFi-CaNet(Ours) | [ResNet-101][assets] | 79.92 |
  HiFi-CaNet(Ours) | [DLA-34][assets]     | 80.39 | 
 
-## References
 
 
 
