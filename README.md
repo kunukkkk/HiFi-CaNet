@@ -11,7 +11,7 @@ Pytorch implementation of the paper "[HiFi-CaNet: A High-Level Feature Guided Ca
 This code is improved by CLRNet source code.[@zheng2022clrnet]
 
 ## Introduction
-![Fig.2](.github/Fig.2.jpg)
+![HiFi-CaNet](image/Fig.2.jpg)
 - A Channel-Space Cooperative Feature Enhancement Module (CS-CFEM) is proposed.
 - A High-Level Guided Feature Pyramid Network (HLG-FPN) is proposed.
 - Distance Lane IoU(DLIoU) loss is proposed.
@@ -77,7 +77,7 @@ We will get the visualization result in `work_dirs/xxx/xxx/visualization`.
 
 
 ## Results
-![Fig.8](.github/Fig.8.jpg)
+![HiFi-CaNet](image/Fig.8.jpg)
 
 [assets]: https://github.com/turoad/CLRNet/releases
 
